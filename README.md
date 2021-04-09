@@ -1,9 +1,9 @@
 # React Shopping Cart
 
-##### A simple Shopping Cart to understand API Handling in React.  
-##### Try it @  `https://react-shopping-cart-jaypatel1210.netlify.app/`  
+### A simple Shopping Cart to understand API Handling in React.  
+### Try it @  `[https://react-shopping-cart-jaypatel1210.netlify.app](https://react-shopping-cart-jaypatel1210.netlify.app)`  
 
-# Getting Started with Create React App
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
